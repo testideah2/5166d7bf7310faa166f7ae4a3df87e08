@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.ht.order"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. order.998993.ru</name>
+    <name>ТЕСТ. Заявка в Высокие Технологии</name>
 
     <description>
         Заявка в ООО "Высокие Технологии"
